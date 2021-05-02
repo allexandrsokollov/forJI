@@ -20,7 +20,7 @@ public class DataBase {
     }
 
     public void createTable(String name) {
-        String sql = "CREATE TABLE IF NOT EXISTS " + name + " (id VARCHAR(100) NOT NULL, title VARCHAR(255) NOT NULL, date VARCHAR(100) NOT NULL, PRIMARY KEY (id))";
+        String sql = "CREATE TABLE IF NOT EXISTS " + name + " (id VARCHAR(200) NOT NULL, title VARCHAR(200) NOT NULL, date VARCHAR(200) NOT NULL, PRIMARY KEY (id))";
         Connection connection = null;
         Statement stmt = null;
 
@@ -95,5 +95,47 @@ public class DataBase {
                 }
             }
         }
+    }
+
+    public void addElem(String nameOfTable, String ids, String titles, String dates) {
+
+        String sql = "INSERT INTO test (id, title, date) VALUES ('" + ids + "' ,'" + titles + "' ,'" + dates + "')";
+        Connection connection = null;
+        Statement stmt = null;
+
+
+        try {
+            Class.forName(JDBC_DRIVER);
+            connection = DriverManager.getConnection(DB_URL, user, pass);
+            stmt = connection.createStatement();
+
+            stmt.executeUpdate(sql);
+
+
+            stmt.close();
+            connection.close();
+        } catch (ClassNotFoundException | SQLException e) {
+            e.printStackTrace();
+        } finally {
+            if(stmt != null) {
+
+                try {
+                    stmt.close();
+                } catch (SQLException throwables) {
+                    throwables.printStackTrace();
+                }
+            }
+
+            if(connection != null) {
+
+                try {
+                    connection.close();
+                } catch (SQLException throwables) {
+                    throwables.printStackTrace();
+                }
+            }
+        }
+
+
     }
 }

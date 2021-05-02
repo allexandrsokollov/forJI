@@ -11,5 +11,9 @@ public class Main {
                 "user", "1234");
 
         db.dropTable("test");
+
+        db.createTable("test");
+
+        db.addElem("test", "3wref", "1werwe", "20weterw212220");
     }
 }
