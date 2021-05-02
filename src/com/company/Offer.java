@@ -2,12 +2,10 @@ package com.company;
 
 public class Offer {
 
-    private String ref;
-    private String title;
-    private String pubDate;
+    private final String ref;
+    private final String title;
+    private final String pubDate;
 
-    public Offer() {
-    }
 
     public Offer(String ref, String title, String paBDate) {
         this.ref = ref;
@@ -15,29 +13,6 @@ public class Offer {
         this.pubDate = paBDate;
     }
 
-    public String getRef() {
-        return ref;
-    }
-
-    public void setRef(String ref) {
-        this.ref = ref;
-    }
-
-    public String getTitle() {
-        return title;
-    }
-
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
-    public String getPubDate() {
-        return pubDate;
-    }
-
-    public void setPuBDate(String puBDate) {
-        this.pubDate = puBDate;
-    }
 
     @Override
     public String toString() {
