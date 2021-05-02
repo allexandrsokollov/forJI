@@ -4,12 +4,15 @@ public class Offer {
 
     private String ref;
     private String title;
-    private String paBDate;
+    private String pubDate;
+
+    public Offer() {
+    }
 
     public Offer(String ref, String title, String paBDate) {
         this.ref = ref;
         this.title = title;
-        this.paBDate = paBDate;
+        this.pubDate = paBDate;
     }
 
     public String getRef() {
@@ -28,12 +31,12 @@ public class Offer {
         this.title = title;
     }
 
-    public String getPaBDate() {
-        return paBDate;
+    public String getPubDate() {
+        return pubDate;
     }
 
-    public void setPaBDate(String paBDate) {
-        this.paBDate = paBDate;
+    public void setPuBDate(String puBDate) {
+        this.pubDate = puBDate;
     }
 
     @Override
@@ -41,7 +44,7 @@ public class Offer {
         return "Offer{" +
                 "ref='" + ref + '\'' +
                 ", title='" + title + '\'' +
-                ", paBDate='" + paBDate + '\'' +
+                ", paBDate='" + pubDate + '\'' +
                 '}';
     }
 }
