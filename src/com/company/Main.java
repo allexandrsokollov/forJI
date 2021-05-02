@@ -1,19 +1,15 @@
 package com.company;
 
 
-import java.util.List;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        Parser parser = new Parser("offers.xml");
+        DataBase db = new DataBase("com.mysql.cj.jdbc.Driver",
+                "jdbc:mysql://localhost:3306/dt",
+                "user", "1234");
 
-        List<Offer> list;
-        list = parser.getListOfOffers();
-
-        for(int i = 0; i < list.size(); i++) {
-            System.out.println(list.get(i));
-        }
+        db.createTable("test2");
     }
 }
