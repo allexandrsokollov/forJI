@@ -1,0 +1,2026 @@
+<?xml version="1.0"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Vacancies rss</title>
+        <atom:link href="https://dataart.team/Umbraco/Api/RssFeed/GenerateRssFeed" rel="self" type="application/rss+xml" />
+        <description>DataArt rss channel</description>
+        <link>https://dataart.team/Umbraco/Api/RssFeed/GenerateRssFeed</link>
+        <language>en</language>
+        <item>
+            <title>	Elixir Developer, Therapeutic Training App. Sign-on bonus: $3000</title>
+            <link>https://dataart.team/vacancy/rub172</link>
+            <description />
+            <guid>https://dataart.team/vacancy/rub172</guid>
+            <pubDate>Sat, 01 May 2021 12:12:49 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Ruby / Elixir Developer, Therapeutic Training App. Sign-on bonus: $3000</title>
+            <link>https://dataart.team/vacancy/rub177</link>
+            <description />
+            <guid>https://dataart.team/vacancy/rub177</guid>
+            <pubDate>Sat, 01 May 2021 12:09:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Node.js Engineer, Data Protection Company</title>
+            <link>https://dataart.team/vacancy/njs185</link>
+            <description />
+            <guid>https://dataart.team/vacancy/njs185</guid>
+            <pubDate>Sat, 01 May 2021 11:48:57 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Python Developer, Investor Management System</title>
+            <link>https://dataart.team/vacancy/pyt373</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt373</guid>
+            <pubDate>Sat, 01 May 2021 11:47:20 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Front-End Engineer (React.js), Worldwide Product Services</title>
+            <link>https://dataart.team/vacancy/jsc777</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc777</guid>
+            <pubDate>Sat, 01 May 2021 11:46:17 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle QA Automation Engineer, Insurance Services</title>
+            <link>https://dataart.team/vacancy/qaa534</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa534</guid>
+            <pubDate>Sat, 01 May 2021 11:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title>	ETL Developer, Insurance Services</title>
+            <link>https://dataart.team/vacancy/bsi053</link>
+            <description />
+            <guid>https://dataart.team/vacancy/bsi053</guid>
+            <pubDate>Sat, 01 May 2021 10:37:28 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Android Developer</title>
+            <link>https://dataart.team/vacancy/adr107</link>
+            <description />
+            <guid>https://dataart.team/vacancy/adr107</guid>
+            <pubDate>Fri, 30 Apr 2021 14:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title>PHP Trainee</title>
+            <link>https://dataart.team/vacancy/php136</link>
+            <description />
+            <guid>https://dataart.team/vacancy/php136</guid>
+            <pubDate>Fri, 30 Apr 2021 13:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Salesforce Support Engineer</title>
+            <link>https://dataart.team/vacancy/slf105</link>
+            <description />
+            <guid>https://dataart.team/vacancy/slf105</guid>
+            <pubDate>Fri, 30 Apr 2021 07:58:35 GMT</pubDate>
+        </item>
+        <item>
+            <title>Solutions Architect, Online Retailer</title>
+            <link>https://dataart.team/vacancy/sla090</link>
+            <description />
+            <guid>https://dataart.team/vacancy/sla090</guid>
+            <pubDate>Fri, 30 Apr 2021 07:52:18 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle C++ Developer, Communications Services</title>
+            <link>https://dataart.team/vacancy/cpp106</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cpp106</guid>
+            <pubDate>Fri, 30 Apr 2021 07:28:14 GMT</pubDate>
+        </item>
+        <item>
+            <title>Full Stack Engineer, Digital Trading Platform</title>
+            <link>https://dataart.team/vacancy/jav809</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav809</guid>
+            <pubDate>Thu, 29 Apr 2021 17:49:02 GMT</pubDate>
+        </item>
+        <item>
+            <title>FullStack (React.js + Node.js) Developer</title>
+            <link>https://dataart.team/vacancy/jsc825</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc825</guid>
+            <pubDate>Thu, 29 Apr 2021 17:39:07 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Angular Developer, Parking Control System</title>
+            <link>https://dataart.team/vacancy/agl033</link>
+            <description />
+            <guid>https://dataart.team/vacancy/agl033</guid>
+            <pubDate>Thu, 29 Apr 2021 17:27:10 GMT</pubDate>
+        </item>
+        <item>
+            <title>Data Analyst</title>
+            <link>https://dataart.team/vacancy/dan076</link>
+            <description />
+            <guid>https://dataart.team/vacancy/dan076</guid>
+            <pubDate>Thu, 29 Apr 2021 17:18:26 GMT</pubDate>
+        </item>
+        <item>
+            <title>DevOps Engineer with AWS Experience, Media Conglomerate</title>
+            <link>https://dataart.team/vacancy/cfm671</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm671</guid>
+            <pubDate>Thu, 29 Apr 2021 14:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle .NET Engineer with JavaScript Experience, Dental Scanner Solutions</title>
+            <link>https://dataart.team/vacancy/net552</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net552</guid>
+            <pubDate>Thu, 29 Apr 2021 14:43:42 GMT</pubDate>
+        </item>
+        <item>
+            <title>React Native Developer</title>
+            <link>https://dataart.team/vacancy/rnt014</link>
+            <description />
+            <guid>https://dataart.team/vacancy/rnt014</guid>
+            <pubDate>Thu, 29 Apr 2021 14:36:46 GMT</pubDate>
+        </item>
+        <item>
+            <title>Junior QA Engineer</title>
+            <link>https://dataart.team/vacancy/qas230</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qas230</guid>
+            <pubDate>Thu, 29 Apr 2021 14:28:42 GMT</pubDate>
+        </item>
+        <item>
+            <title>Video Streaming Developer; Sign-on Bonus: $2000</title>
+            <link>https://dataart.team/vacancy/otr046</link>
+            <description />
+            <guid>https://dataart.team/vacancy/otr046</guid>
+            <pubDate>Thu, 29 Apr 2021 13:53:54 GMT</pubDate>
+        </item>
+        <item>
+            <title>JavaScript (Node.js) Engineer, Telemedicine Technology Solutions</title>
+            <link>https://dataart.team/vacancy/njs187</link>
+            <description />
+            <guid>https://dataart.team/vacancy/njs187</guid>
+            <pubDate>Thu, 29 Apr 2021 13:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle React Native Developer, Online Gaming Platform</title>
+            <link>https://dataart.team/vacancy/rnt009</link>
+            <description />
+            <guid>https://dataart.team/vacancy/rnt009</guid>
+            <pubDate>Thu, 29 Apr 2021 10:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title>Junior QA Engineer, Financial Systems</title>
+            <link>https://dataart.team/vacancy/qas227</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qas227</guid>
+            <pubDate>Thu, 29 Apr 2021 10:29:29 GMT</pubDate>
+        </item>
+        <item>
+            <title>Solutions Architect, Communications Solutions</title>
+            <link>https://dataart.team/vacancy/sla096</link>
+            <description />
+            <guid>https://dataart.team/vacancy/sla096</guid>
+            <pubDate>Thu, 29 Apr 2021 08:34:37 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Android Developer, Communications Services</title>
+            <link>https://dataart.team/vacancy/adr100</link>
+            <description />
+            <guid>https://dataart.team/vacancy/adr100</guid>
+            <pubDate>Thu, 29 Apr 2021 08:25:18 GMT</pubDate>
+        </item>
+        <item>
+            <title>C Developer, Cloud Business Applications</title>
+            <link>https://dataart.team/vacancy/cpp097</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cpp097</guid>
+            <pubDate>Thu, 29 Apr 2021 08:14:57 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Data Engineer</title>
+            <link>https://dataart.team/vacancy/de094</link>
+            <description />
+            <guid>https://dataart.team/vacancy/de094</guid>
+            <pubDate>Wed, 28 Apr 2021 15:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title>HR Manager</title>
+            <link>https://dataart.team/vacancy/hrm084</link>
+            <description />
+            <guid>https://dataart.team/vacancy/hrm084</guid>
+            <pubDate>Wed, 28 Apr 2021 14:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Site Reliability Engineer, Investment App</title>
+            <link>https://dataart.team/vacancy/sre012</link>
+            <description />
+            <guid>https://dataart.team/vacancy/sre012</guid>
+            <pubDate>Wed, 28 Apr 2021 10:27:21 GMT</pubDate>
+        </item>
+        <item>
+            <title>Scala Developer, Banking App</title>
+            <link>https://dataart.team/vacancy/sca034</link>
+            <description />
+            <guid>https://dataart.team/vacancy/sca034</guid>
+            <pubDate>Wed, 28 Apr 2021 10:22:11 GMT</pubDate>
+        </item>
+        <item>
+            <title>iOS Developer, Banking App</title>
+            <link>https://dataart.team/vacancy/ios082</link>
+            <description />
+            <guid>https://dataart.team/vacancy/ios082</guid>
+            <pubDate>Wed, 28 Apr 2021 10:09:02 GMT</pubDate>
+        </item>
+        <item>
+            <title>Lead Angular Developer, Investment App</title>
+            <link>https://dataart.team/vacancy/jsc763</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc763</guid>
+            <pubDate>Wed, 28 Apr 2021 10:07:59 GMT</pubDate>
+        </item>
+        <item>
+            <title>Java Team Leader,  Investment App</title>
+            <link>https://dataart.team/vacancy/jav682</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav682</guid>
+            <pubDate>Wed, 28 Apr 2021 10:02:14 GMT</pubDate>
+        </item>
+        <item>
+            <title>Java Developer, Investment App</title>
+            <link>https://dataart.team/vacancy/jav618</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav618</guid>
+            <pubDate>Wed, 28 Apr 2021 10:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title>Java Team Leader</title>
+            <link>https://dataart.team/vacancy/jav685</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav685</guid>
+            <pubDate>Wed, 28 Apr 2021 09:58:53 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Front-End (Vue.js) Engineer</title>
+            <link>https://dataart.team/vacancy/jsc819</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc819</guid>
+            <pubDate>Wed, 28 Apr 2021 09:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior JavaScript (Front-End) Engineer</title>
+            <link>https://dataart.team/vacancy/jsc812</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc812</guid>
+            <pubDate>Wed, 28 Apr 2021 06:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior C++ Developer, Communications Services</title>
+            <link>https://dataart.team/vacancy/cpp092</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cpp092</guid>
+            <pubDate>Wed, 28 Apr 2021 06:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title>Java Engineer, Communications Solutions</title>
+            <link>https://dataart.team/vacancy/jav805</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav805</guid>
+            <pubDate>Tue, 27 Apr 2021 10:06:13 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior .NET Engineer, Incident Management Solutions</title>
+            <link>https://dataart.team/vacancy/net600</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net600</guid>
+            <pubDate>Tue, 27 Apr 2021 09:17:49 GMT</pubDate>
+        </item>
+        <item>
+            <title>C++ Developer, Trading Solutions</title>
+            <link>https://dataart.team/vacancy/cpp103</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cpp103</guid>
+            <pubDate>Tue, 27 Apr 2021 05:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title>Java Engineer</title>
+            <link>https://dataart.team/vacancy/jav797</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav797</guid>
+            <pubDate>Mon, 26 Apr 2021 18:16:03 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Senior .NET Engineer, Tickets Selling System. Relocation to Poland or Bulgaria</title>
+            <link>https://dataart.team/vacancy/net598</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net598</guid>
+            <pubDate>Mon, 26 Apr 2021 11:06:26 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Data Engineer, Asset Management Solutions</title>
+            <link>https://dataart.team/vacancy/de088</link>
+            <description />
+            <guid>https://dataart.team/vacancy/de088</guid>
+            <pubDate>Mon, 26 Apr 2021 10:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Python Developer, Media Distribution Platform</title>
+            <link>https://dataart.team/vacancy/pyt312</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt312</guid>
+            <pubDate>Mon, 26 Apr 2021 10:17:36 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior .NET Engineer, Laboratory Information Management System</title>
+            <link>https://dataart.team/vacancy/net595</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net595</guid>
+            <pubDate>Mon, 26 Apr 2021 09:56:07 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Webmaster, Worldwide Product Services</title>
+            <link>https://dataart.team/vacancy/wbm054</link>
+            <description />
+            <guid>https://dataart.team/vacancy/wbm054</guid>
+            <pubDate>Mon, 26 Apr 2021 09:41:07 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Cloud Architect, Marketing Software Solutions</title>
+            <link>https://dataart.team/vacancy/cfm663</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm663</guid>
+            <pubDate>Fri, 23 Apr 2021 19:34:14 GMT</pubDate>
+        </item>
+        <item>
+            <title>Java Trainee</title>
+            <link>https://dataart.team/vacancy/jav298</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav298</guid>
+            <pubDate>Fri, 23 Apr 2021 12:18:32 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior .NET Developer, Digital Health Platform</title>
+            <link>https://dataart.team/vacancy/net591</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net591</guid>
+            <pubDate>Fri, 23 Apr 2021 11:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Front-End Engineer, Digital Health Platform</title>
+            <link>https://dataart.team/vacancy/jsc807</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc807</guid>
+            <pubDate>Fri, 23 Apr 2021 11:24:53 GMT</pubDate>
+        </item>
+        <item>
+            <title>Full Stack (React.js+Node.js) Developer, Online Education Solutions</title>
+            <link>https://dataart.team/vacancy/jsc804</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc804</guid>
+            <pubDate>Fri, 23 Apr 2021 11:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title>Lead Python Developer, Online Education Solutions</title>
+            <link>https://dataart.team/vacancy/pyt371</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt371</guid>
+            <pubDate>Fri, 23 Apr 2021 10:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title>QA Trainee, Registry App</title>
+            <link>https://dataart.team/vacancy/qas208</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qas208</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle QA Engineer, Financial Services</title>
+            <link>https://dataart.team/vacancy/qas193</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qas193</guid>
+            <pubDate>Thu, 22 Apr 2021 17:11:49 GMT</pubDate>
+        </item>
+        <item>
+            <title>Data Developer</title>
+            <link>https://dataart.team/vacancy/mql182</link>
+            <description />
+            <guid>https://dataart.team/vacancy/mql182</guid>
+            <pubDate>Thu, 22 Apr 2021 14:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title>Java Engineer, Online Retailer</title>
+            <link>https://dataart.team/vacancy/jav790</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav790</guid>
+            <pubDate>Thu, 22 Apr 2021 13:54:04 GMT</pubDate>
+        </item>
+        <item>
+            <title>Azure Data Engineer</title>
+            <link>https://dataart.team/vacancy/de082</link>
+            <description />
+            <guid>https://dataart.team/vacancy/de082</guid>
+            <pubDate>Thu, 22 Apr 2021 13:12:46 GMT</pubDate>
+        </item>
+        <item>
+            <title>.NET Developer, Hospital Health System. Relocation to Poland</title>
+            <link>https://dataart.team/vacancy/net589</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net589</guid>
+            <pubDate>Thu, 22 Apr 2021 13:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title>QA Automation, Hospital Health System. Relocation to Poland</title>
+            <link>https://dataart.team/vacancy/qaa564</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa564</guid>
+            <pubDate>Thu, 22 Apr 2021 12:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior .NET Developer (Tech Lead), Hospital Health System. Relocation to Poland</title>
+            <link>https://dataart.team/vacancy/net582</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net582</guid>
+            <pubDate>Thu, 22 Apr 2021 12:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title>DevOps (Azure) Engineer, Hospital Health System. Relocation to Poland</title>
+            <link>https://dataart.team/vacancy/cfm657</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm657</guid>
+            <pubDate>Thu, 22 Apr 2021 12:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Full Stack (.NET+React) Developer, Hospital Health System. Relocation to Poland </title>
+            <link>https://dataart.team/vacancy/net577</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net577</guid>
+            <pubDate>Thu, 22 Apr 2021 12:16:47 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle DevOps with AWS Experience, Fintech Solutions</title>
+            <link>https://dataart.team/vacancy/cfm654</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm654</guid>
+            <pubDate>Thu, 22 Apr 2021 11:47:14 GMT</pubDate>
+        </item>
+        <item>
+            <title>Java Developer, Telemedicine Technology Solutions</title>
+            <link>https://dataart.team/vacancy/jav655</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav655</guid>
+            <pubDate>Thu, 22 Apr 2021 10:12:12 GMT</pubDate>
+        </item>
+        <item>
+            <title>QA Automation, Telemedicine Technology Solutions</title>
+            <link>https://dataart.team/vacancy/qaa484</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa484</guid>
+            <pubDate>Thu, 22 Apr 2021 10:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Front-End (Angular 2+) Developer, Telemedicine Technology Solutions</title>
+            <link>https://dataart.team/vacancy/jsc773</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc773</guid>
+            <pubDate>Thu, 22 Apr 2021 10:11:19 GMT</pubDate>
+        </item>
+        <item>
+            <title>DevOps with AWS Experience, Telehealth Solutions</title>
+            <link>https://dataart.team/vacancy/cfm598</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm598</guid>
+            <pubDate>Thu, 22 Apr 2021 08:40:18 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Android Developer, Energy Tech Solutions</title>
+            <link>https://dataart.team/vacancy/adr095</link>
+            <description />
+            <guid>https://dataart.team/vacancy/adr095</guid>
+            <pubDate>Thu, 22 Apr 2021 06:18:59 GMT</pubDate>
+        </item>
+        <item>
+            <title>	DevOps Engineer, Cybersecurity Solutions</title>
+            <link>https://dataart.team/vacancy/cfm648</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm648</guid>
+            <pubDate>Wed, 21 Apr 2021 15:48:55 GMT</pubDate>
+        </item>
+        <item>
+            <title>Adobe Analytics Developer, Financial Systems</title>
+            <link>https://dataart.team/vacancy/dan073</link>
+            <description />
+            <guid>https://dataart.team/vacancy/dan073</guid>
+            <pubDate>Wed, 21 Apr 2021 11:25:27 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Project Manager, Financial Systems</title>
+            <link>https://dataart.team/vacancy/pmr183</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pmr183</guid>
+            <pubDate>Wed, 21 Apr 2021 10:43:49 GMT</pubDate>
+        </item>
+        <item>
+            <title>QA Lead, Online Retailer</title>
+            <link>https://dataart.team/vacancy/qas221</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qas221</guid>
+            <pubDate>Wed, 21 Apr 2021 08:25:23 GMT</pubDate>
+        </item>
+        <item>
+            <title>Clojure Developer, Fintech Solutions; Sign-on Bonus: $2000</title>
+            <link>https://dataart.team/vacancy/jav751</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav751</guid>
+            <pubDate>Tue, 20 Apr 2021 19:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior DevOps Engineer, Marketing Software Solutions</title>
+            <link>https://dataart.team/vacancy/cfm642</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm642</guid>
+            <pubDate>Tue, 20 Apr 2021 13:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Front-End Developer with React Native</title>
+            <link>https://dataart.team/vacancy/rnt004</link>
+            <description />
+            <guid>https://dataart.team/vacancy/rnt004</guid>
+            <pubDate>Tue, 20 Apr 2021 12:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title>Scala Developer</title>
+            <link>https://dataart.team/vacancy/sca057</link>
+            <description />
+            <guid>https://dataart.team/vacancy/sca057</guid>
+            <pubDate>Tue, 20 Apr 2021 12:31:30 GMT</pubDate>
+        </item>
+        <item>
+            <title>Lead DevOps Engineer</title>
+            <link>https://dataart.team/vacancy/cfm636</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm636</guid>
+            <pubDate>Tue, 20 Apr 2021 12:20:18 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior .NET Developer, Financial Services</title>
+            <link>https://dataart.team/vacancy/net460</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net460</guid>
+            <pubDate>Tue, 20 Apr 2021 09:30:13 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Node.js Developer</title>
+            <link>https://dataart.team/vacancy/njs202</link>
+            <description />
+            <guid>https://dataart.team/vacancy/njs202</guid>
+            <pubDate>Tue, 20 Apr 2021 08:09:19 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle ETL Engineer, Cloud-Based Storage</title>
+            <link>https://dataart.team/vacancy/etl082</link>
+            <description />
+            <guid>https://dataart.team/vacancy/etl082</guid>
+            <pubDate>Tue, 20 Apr 2021 07:52:41 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle DevOps Engineer, Trading Solutions</title>
+            <link>https://dataart.team/vacancy/cfm628</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm628</guid>
+            <pubDate>Mon, 19 Apr 2021 14:45:58 GMT</pubDate>
+        </item>
+        <item>
+            <title>QA Engineer, Investment App</title>
+            <link>https://dataart.team/vacancy/qas200</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qas200</guid>
+            <pubDate>Mon, 19 Apr 2021 14:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title>.NET Architect, Financial Systems</title>
+            <link>https://dataart.team/vacancy/net420</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net420</guid>
+            <pubDate>Mon, 19 Apr 2021 13:16:20 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle QA (JavaScript) Automation Engineer</title>
+            <link>https://dataart.team/vacancy/qaa557</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa557</guid>
+            <pubDate>Mon, 19 Apr 2021 12:50:19 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Android Developer, Banking App</title>
+            <link>https://dataart.team/vacancy/adr088</link>
+            <description />
+            <guid>https://dataart.team/vacancy/adr088</guid>
+            <pubDate>Mon, 19 Apr 2021 10:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Node.js Developer, Multinational Financial Services</title>
+            <link>https://dataart.team/vacancy/njs200</link>
+            <description />
+            <guid>https://dataart.team/vacancy/njs200</guid>
+            <pubDate>Fri, 16 Apr 2021 13:11:53 GMT</pubDate>
+        </item>
+        <item>
+            <title>Junior .NET Developer</title>
+            <link>https://dataart.team/vacancy/net570</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net570</guid>
+            <pubDate>Fri, 16 Apr 2021 12:39:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>System Administrator</title>
+            <link>https://dataart.team/vacancy/sya041</link>
+            <description />
+            <guid>https://dataart.team/vacancy/sya041</guid>
+            <pubDate>Fri, 16 Apr 2021 12:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title>Lead Full Stack (Python + React) Engineer, Online Education Solutions</title>
+            <link>https://dataart.team/vacancy/pyt366</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt366</guid>
+            <pubDate>Fri, 16 Apr 2021 10:39:13 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Python Developer, Online Education Solutions</title>
+            <link>https://dataart.team/vacancy/pyt361</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt361</guid>
+            <pubDate>Fri, 16 Apr 2021 10:14:56 GMT</pubDate>
+        </item>
+        <item>
+            <title>FullStack (Python+React.js) Developer, Banking App</title>
+            <link>https://dataart.team/vacancy/pyt338</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt338</guid>
+            <pubDate>Fri, 16 Apr 2021 09:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Senior iOS Developer (Team Leader), Banking App</title>
+            <link>https://dataart.team/vacancy/ios125</link>
+            <description />
+            <guid>https://dataart.team/vacancy/ios125</guid>
+            <pubDate>Thu, 15 Apr 2021 16:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title>Java Engineer, Communication Services</title>
+            <link>https://dataart.team/vacancy/jav785</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav785</guid>
+            <pubDate>Thu, 15 Apr 2021 14:17:57 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle MS SQL DB Developer, Communications Solutions</title>
+            <link>https://dataart.team/vacancy/mql186</link>
+            <description />
+            <guid>https://dataart.team/vacancy/mql186</guid>
+            <pubDate>Thu, 15 Apr 2021 13:33:48 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Senior Sitecore Developer</title>
+            <link>https://dataart.team/vacancy/scr044</link>
+            <description />
+            <guid>https://dataart.team/vacancy/scr044</guid>
+            <pubDate>Thu, 15 Apr 2021 13:12:19 GMT</pubDate>
+        </item>
+        <item>
+            <title>Python Developer, Conversational Commerce Platform</title>
+            <link>https://dataart.team/vacancy/pyt355</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt355</guid>
+            <pubDate>Thu, 15 Apr 2021 12:16:31 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Network Engineer, Communications Services</title>
+            <link>https://dataart.team/vacancy/cfm624</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm624</guid>
+            <pubDate>Thu, 15 Apr 2021 12:15:45 GMT</pubDate>
+        </item>
+        <item>
+            <title> Node.js Developer, Online Education Solutions</title>
+            <link>https://dataart.team/vacancy/njs194</link>
+            <description />
+            <guid>https://dataart.team/vacancy/njs194</guid>
+            <pubDate>Thu, 15 Apr 2021 11:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Node.js Engineer with Go Experience, Media Conglomerate</title>
+            <link>https://dataart.team/vacancy/njs195</link>
+            <description />
+            <guid>https://dataart.team/vacancy/njs195</guid>
+            <pubDate>Thu, 15 Apr 2021 06:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Data Engineer/ETL Developer, E-Commerce</title>
+            <link>https://dataart.team/vacancy/etl080</link>
+            <description />
+            <guid>https://dataart.team/vacancy/etl080</guid>
+            <pubDate>Wed, 14 Apr 2021 11:42:05 GMT</pubDate>
+        </item>
+        <item>
+            <title>Lead Java Engineer with Scala Experience, Information Technology Services</title>
+            <link>https://dataart.team/vacancy/jav779</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav779</guid>
+            <pubDate>Wed, 14 Apr 2021 10:59:53 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Java Engineer with Scala Experience, Information Technology Services</title>
+            <link>https://dataart.team/vacancy/jav774</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav774</guid>
+            <pubDate>Wed, 14 Apr 2021 10:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Python Engineer with Node.js,  IoT Messaging Platform </title>
+            <link>https://dataart.team/vacancy/pyt323</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt323</guid>
+            <pubDate>Wed, 14 Apr 2021 10:22:53 GMT</pubDate>
+        </item>
+        <item>
+            <title>QA Trainee</title>
+            <link>https://dataart.team/vacancy/qas214</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qas214</guid>
+            <pubDate>Wed, 14 Apr 2021 07:54:35 GMT</pubDate>
+        </item>
+        <item>
+            <title>Technical Team Lead (Clojure), Fintech Solutions; Sign-on Bonus: $2000</title>
+            <link>https://dataart.team/vacancy/jav750</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav750</guid>
+            <pubDate>Tue, 13 Apr 2021 17:36:45 GMT</pubDate>
+        </item>
+        <item>
+            <title>	.NET Architect, Fintech Solutions</title>
+            <link>https://dataart.team/vacancy/net566</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net566</guid>
+            <pubDate>Tue, 13 Apr 2021 12:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Python Architect (Tech Lead)</title>
+            <link>https://dataart.team/vacancy/pyt352</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt352</guid>
+            <pubDate>Tue, 13 Apr 2021 10:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior QA (JavaScript) Automation Engineer, Investment Management Services</title>
+            <link>https://dataart.team/vacancy/qaa551</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa551</guid>
+            <pubDate>Tue, 13 Apr 2021 09:51:17 GMT</pubDate>
+        </item>
+        <item>
+            <title>Angular.js Developer </title>
+            <link>https://dataart.team/vacancy/agl025</link>
+            <description />
+            <guid>https://dataart.team/vacancy/agl025</guid>
+            <pubDate>Tue, 13 Apr 2021 08:14:26 GMT</pubDate>
+        </item>
+        <item>
+            <title>Java Engineer with AWS Experience, Smart Home System </title>
+            <link>https://dataart.team/vacancy/jav120</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav120</guid>
+            <pubDate>Mon, 12 Apr 2021 13:16:38 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Data Engineer, Online Genealogy Service</title>
+            <link>https://dataart.team/vacancy/de047</link>
+            <description />
+            <guid>https://dataart.team/vacancy/de047</guid>
+            <pubDate>Mon, 12 Apr 2021 12:35:20 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Python Developer, Global Music Company</title>
+            <link>https://dataart.team/vacancy/pyt287</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt287</guid>
+            <pubDate>Mon, 12 Apr 2021 11:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior .NET Engineer (Team Lead), Fintech Solutions</title>
+            <link>https://dataart.team/vacancy/net564</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net564</guid>
+            <pubDate>Mon, 12 Apr 2021 10:43:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>	DevOps with Cloud Security Experience, Fintech Solutions</title>
+            <link>https://dataart.team/vacancy/cfm619</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm619</guid>
+            <pubDate>Mon, 12 Apr 2021 10:25:14 GMT</pubDate>
+        </item>
+        <item>
+            <title>System Administrator</title>
+            <link>https://dataart.team/vacancy/sya032</link>
+            <description />
+            <guid>https://dataart.team/vacancy/sya032</guid>
+            <pubDate>Fri, 09 Apr 2021 14:07:25 GMT</pubDate>
+        </item>
+        <item>
+            <title>Marketing Specialist, UK Market</title>
+            <link>https://dataart.team/vacancy/mkc055</link>
+            <description />
+            <guid>https://dataart.team/vacancy/mkc055</guid>
+            <pubDate>Fri, 09 Apr 2021 11:29:13 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Project Manager, Finance Operations Technology</title>
+            <link>https://dataart.team/vacancy/pmr207</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pmr207</guid>
+            <pubDate>Fri, 09 Apr 2021 10:45:53 GMT</pubDate>
+        </item>
+        <item>
+            <title>Resource Manager</title>
+            <link>https://dataart.team/vacancy/rsm001</link>
+            <description />
+            <guid>https://dataart.team/vacancy/rsm001</guid>
+            <pubDate>Thu, 08 Apr 2021 17:28:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>DevOps Engineer, Betting and Gaming Industry</title>
+            <link>https://dataart.team/vacancy/cfm617</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm617</guid>
+            <pubDate>Thu, 08 Apr 2021 16:26:28 GMT</pubDate>
+        </item>
+        <item>
+            <title>Junior Email Marketing Specialist with Advanced Writing Skills</title>
+            <link>https://dataart.team/vacancy/mkc058</link>
+            <description />
+            <guid>https://dataart.team/vacancy/mkc058</guid>
+            <pubDate>Thu, 08 Apr 2021 13:43:56 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Java Engineer with C++ Experience, Communication Tools</title>
+            <link>https://dataart.team/vacancy/jav742</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav742</guid>
+            <pubDate>Thu, 08 Apr 2021 09:25:50 GMT</pubDate>
+        </item>
+        <item>
+            <title>Atlassian Tools Administrator, Financial Systems</title>
+            <link>https://dataart.team/vacancy/sya036</link>
+            <description />
+            <guid>https://dataart.team/vacancy/sya036</guid>
+            <pubDate>Thu, 08 Apr 2021 07:10:38 GMT</pubDate>
+        </item>
+        <item>
+            <title>.NET Engineer with Unity 3D Experience</title>
+            <link>https://dataart.team/vacancy/net478</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net478</guid>
+            <pubDate>Thu, 08 Apr 2021 07:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle QA Automation Engineer, Educational Platform</title>
+            <link>https://dataart.team/vacancy/qaa529</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa529</guid>
+            <pubDate>Thu, 08 Apr 2021 06:29:21 GMT</pubDate>
+        </item>
+        <item>
+            <title>Business Analyst, Banking App</title>
+            <link>https://dataart.team/vacancy/bsa222</link>
+            <description />
+            <guid>https://dataart.team/vacancy/bsa222</guid>
+            <pubDate>Wed, 07 Apr 2021 15:30:17 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle JavaScript (Angular) Engineer, Banking App</title>
+            <link>https://dataart.team/vacancy/jsc769</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc769</guid>
+            <pubDate>Wed, 07 Apr 2021 15:20:06 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Android Developer, Investment App</title>
+            <link>https://dataart.team/vacancy/adr067</link>
+            <description />
+            <guid>https://dataart.team/vacancy/adr067</guid>
+            <pubDate>Wed, 07 Apr 2021 15:13:25 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle PHP Engineer with Drupal Experience</title>
+            <link>https://dataart.team/vacancy/php134</link>
+            <description />
+            <guid>https://dataart.team/vacancy/php134</guid>
+            <pubDate>Wed, 07 Apr 2021 14:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle QA Automation (C#) Engineer, Registry App</title>
+            <link>https://dataart.team/vacancy/qaa131</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa131</guid>
+            <pubDate>Wed, 07 Apr 2021 12:07:19 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle .NET Engineer, Registry App</title>
+            <link>https://dataart.team/vacancy/net286</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net286</guid>
+            <pubDate>Wed, 07 Apr 2021 12:04:45 GMT</pubDate>
+        </item>
+        <item>
+            <title>Data Engineer, Online Marketplace; Sign-on Bonus: $1000</title>
+            <link>https://dataart.team/vacancy/de067</link>
+            <description />
+            <guid>https://dataart.team/vacancy/de067</guid>
+            <pubDate>Wed, 07 Apr 2021 11:27:15 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior DevOps Engineer, Media Distribution Platform</title>
+            <link>https://dataart.team/vacancy/cfm532</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm532</guid>
+            <pubDate>Wed, 07 Apr 2021 11:06:55 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior QA Automation Engineer, Fulfillment Services Provider</title>
+            <link>https://dataart.team/vacancy/qaa524</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa524</guid>
+            <pubDate>Wed, 07 Apr 2021 10:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Java Developer, Communication Tools</title>
+            <link>https://dataart.team/vacancy/jav745</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav745</guid>
+            <pubDate>Wed, 07 Apr 2021 08:26:04 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Senior React.js Developer</title>
+            <link>https://dataart.team/vacancy/jsc795</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc795</guid>
+            <pubDate>Wed, 07 Apr 2021 08:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>ERP Architect, Financial Systems</title>
+            <link>https://dataart.team/vacancy/sla077</link>
+            <description />
+            <guid>https://dataart.team/vacancy/sla077</guid>
+            <pubDate>Wed, 07 Apr 2021 07:49:52 GMT</pubDate>
+        </item>
+        <item>
+            <title>	iOS Developer, Online Retailer</title>
+            <link>https://dataart.team/vacancy/ios119</link>
+            <description />
+            <guid>https://dataart.team/vacancy/ios119</guid>
+            <pubDate>Tue, 06 Apr 2021 09:45:44 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Android Developer, Online Retailer</title>
+            <link>https://dataart.team/vacancy/adr085</link>
+            <description />
+            <guid>https://dataart.team/vacancy/adr085</guid>
+            <pubDate>Tue, 06 Apr 2021 09:35:02 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior .NET Engineer</title>
+            <link>https://dataart.team/vacancy/net556</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net556</guid>
+            <pubDate>Mon, 05 Apr 2021 11:56:35 GMT</pubDate>
+        </item>
+        <item>
+            <title>Golang Developer with C++ Experience, Traffic Management Solutions</title>
+            <link>https://dataart.team/vacancy/go083</link>
+            <description />
+            <guid>https://dataart.team/vacancy/go083</guid>
+            <pubDate>Fri, 02 Apr 2021 11:13:22 GMT</pubDate>
+        </item>
+        <item>
+            <title>Business Analyst</title>
+            <link>https://dataart.team/vacancy/bsa285</link>
+            <description />
+            <guid>https://dataart.team/vacancy/bsa285</guid>
+            <pubDate>Fri, 02 Apr 2021 07:46:37 GMT</pubDate>
+        </item>
+        <item>
+            <title>UI/UX Designer, Internal Projects</title>
+            <link>https://dataart.team/vacancy/dsg104</link>
+            <description />
+            <guid>https://dataart.team/vacancy/dsg104</guid>
+            <pubDate>Fri, 02 Apr 2021 06:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Azure DevOps Engineer, Fintech Solutions</title>
+            <link>https://dataart.team/vacancy/cfm608</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm608</guid>
+            <pubDate>Thu, 01 Apr 2021 08:53:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>Data Management Architect (Azure) </title>
+            <link>https://dataart.team/vacancy/bsi041</link>
+            <description />
+            <guid>https://dataart.team/vacancy/bsi041</guid>
+            <pubDate>Thu, 01 Apr 2021 06:53:50 GMT</pubDate>
+        </item>
+        <item>
+            <title>Cloud Security Engineer, Fintech Solutions</title>
+            <link>https://dataart.team/vacancy/scn044</link>
+            <description />
+            <guid>https://dataart.team/vacancy/scn044</guid>
+            <pubDate>Wed, 31 Mar 2021 08:21:43 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle MS SQL DB Developer, Investment Management Platform</title>
+            <link>https://dataart.team/vacancy/mql172</link>
+            <description />
+            <guid>https://dataart.team/vacancy/mql172</guid>
+            <pubDate>Wed, 31 Mar 2021 08:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Java Developer, Trading Solutions</title>
+            <link>https://dataart.team/vacancy/jav726</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav726</guid>
+            <pubDate>Tue, 30 Mar 2021 14:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Java Developer, Trading Solutions</title>
+            <link>https://dataart.team/vacancy/jav721</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav721</guid>
+            <pubDate>Tue, 30 Mar 2021 13:49:13 GMT</pubDate>
+        </item>
+        <item>
+            <title>Business Analyst</title>
+            <link>https://dataart.team/vacancy/bsa273</link>
+            <description />
+            <guid>https://dataart.team/vacancy/bsa273</guid>
+            <pubDate>Tue, 30 Mar 2021 12:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Python Developer, Transport Booking System</title>
+            <link>https://dataart.team/vacancy/pyt343</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt343</guid>
+            <pubDate>Tue, 30 Mar 2021 11:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle QA Automation Engineer, Content Platform</title>
+            <link>https://dataart.team/vacancy/qaa505</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa505</guid>
+            <pubDate>Tue, 30 Mar 2021 08:36:48 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior MS SQL DB Developer</title>
+            <link>https://dataart.team/vacancy/mql170</link>
+            <description />
+            <guid>https://dataart.team/vacancy/mql170</guid>
+            <pubDate>Mon, 29 Mar 2021 14:12:26 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle DevOps/Cloud Engineer, Fintech Solutions</title>
+            <link>https://dataart.team/vacancy/cfm605</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm605</guid>
+            <pubDate>Mon, 29 Mar 2021 13:51:58 GMT</pubDate>
+        </item>
+        <item>
+            <title>FullStack (Go+React.js) Developer</title>
+            <link>https://dataart.team/vacancy/go075</link>
+            <description />
+            <guid>https://dataart.team/vacancy/go075</guid>
+            <pubDate>Mon, 29 Mar 2021 13:37:28 GMT</pubDate>
+        </item>
+        <item>
+            <title>QA Automation Trainee</title>
+            <link>https://dataart.team/vacancy/qaa440</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa440</guid>
+            <pubDate>Mon, 29 Mar 2021 09:48:36 GMT</pubDate>
+        </item>
+        <item>
+            <title>Java Trainee</title>
+            <link>https://dataart.team/vacancy/jav716</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav716</guid>
+            <pubDate>Mon, 29 Mar 2021 09:36:32 GMT</pubDate>
+        </item>
+        <item>
+            <title>Strong Middle .NET Engineer, Investment Management Services</title>
+            <link>https://dataart.team/vacancy/net544</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net544</guid>
+            <pubDate>Mon, 29 Mar 2021 06:36:58 GMT</pubDate>
+        </item>
+        <item>
+            <title>FullStack (Java +React.js) Developer with GraphDB Experience, Recommendation System</title>
+            <link>https://dataart.team/vacancy/jav713</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav713</guid>
+            <pubDate>Fri, 26 Mar 2021 12:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>JavaScript Engineer, Investment Management Platform</title>
+            <link>https://dataart.team/vacancy/jsc779</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc779</guid>
+            <pubDate>Fri, 26 Mar 2021 12:33:59 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle ETL Java Developer</title>
+            <link>https://dataart.team/vacancy/jav707</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav707</guid>
+            <pubDate>Fri, 26 Mar 2021 12:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title>.NET Developer with WPF Experience</title>
+            <link>https://dataart.team/vacancy/net542</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net542</guid>
+            <pubDate>Fri, 26 Mar 2021 11:47:47 GMT</pubDate>
+        </item>
+        <item>
+            <title>Configuration Manager, Online Gaming Platform</title>
+            <link>https://dataart.team/vacancy/spr019</link>
+            <description />
+            <guid>https://dataart.team/vacancy/spr019</guid>
+            <pubDate>Fri, 26 Mar 2021 10:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title>Site Reliability Engineer, Online Marketplace; Sign-on Bonus: $1000</title>
+            <link>https://dataart.team/vacancy/cfm431</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm431</guid>
+            <pubDate>Fri, 26 Mar 2021 10:02:09 GMT</pubDate>
+        </item>
+        <item>
+            <title>	MS SQL DB Developer</title>
+            <link>https://dataart.team/vacancy/etl075</link>
+            <description />
+            <guid>https://dataart.team/vacancy/etl075</guid>
+            <pubDate>Thu, 25 Mar 2021 14:28:18 GMT</pubDate>
+        </item>
+        <item>
+            <title>iOS Trainee</title>
+            <link>https://dataart.team/vacancy/ios035</link>
+            <description />
+            <guid>https://dataart.team/vacancy/ios035</guid>
+            <pubDate>Thu, 25 Mar 2021 13:43:21 GMT</pubDate>
+        </item>
+        <item>
+            <title>MS SQL DB Developer with .NET Skills, Business Intelligence Department</title>
+            <link>https://dataart.team/vacancy/mql166</link>
+            <description />
+            <guid>https://dataart.team/vacancy/mql166</guid>
+            <pubDate>Thu, 25 Mar 2021 12:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Information Security Engineer, Financial System</title>
+            <link>https://dataart.team/vacancy/scn039</link>
+            <description />
+            <guid>https://dataart.team/vacancy/scn039</guid>
+            <pubDate>Thu, 25 Mar 2021 10:25:51 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Senior Java Developer (Team Leader), Compliance Management Software Solutions</title>
+            <link>https://dataart.team/vacancy/jav705</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav705</guid>
+            <pubDate>Thu, 25 Mar 2021 09:27:56 GMT</pubDate>
+        </item>
+        <item>
+            <title>.NET Trainee</title>
+            <link>https://dataart.team/vacancy/net540</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net540</guid>
+            <pubDate>Wed, 24 Mar 2021 12:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Project Manager, Worldwide Product Services</title>
+            <link>https://dataart.team/vacancy/pmr203</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pmr203</guid>
+            <pubDate>Wed, 24 Mar 2021 10:49:52 GMT</pubDate>
+        </item>
+        <item>
+            <title>Ruby Developer, Medical Services App</title>
+            <link>https://dataart.team/vacancy/rub160</link>
+            <description />
+            <guid>https://dataart.team/vacancy/rub160</guid>
+            <pubDate>Wed, 24 Mar 2021 09:49:43 GMT</pubDate>
+        </item>
+        <item>
+            <title>QA Automation Trainee, Registry App</title>
+            <link>https://dataart.team/vacancy/qaa486</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa486</guid>
+            <pubDate>Tue, 23 Mar 2021 14:54:17 GMT</pubDate>
+        </item>
+        <item>
+            <title>Python Developer, E-commerce Platform</title>
+            <link>https://dataart.team/vacancy/pyt340</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt340</guid>
+            <pubDate>Tue, 23 Mar 2021 12:12:49 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Senior DevOps (AWS, Terraform)</title>
+            <link>https://dataart.team/vacancy/cfm599</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm599</guid>
+            <pubDate>Tue, 23 Mar 2021 11:43:22 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle QA Engineer, Gaming App</title>
+            <link>https://dataart.team/vacancy/qas205</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qas205</guid>
+            <pubDate>Tue, 23 Mar 2021 11:41:04 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Business Analyst / Product Owner, Fintech Solutions</title>
+            <link>https://dataart.team/vacancy/bsa271</link>
+            <description />
+            <guid>https://dataart.team/vacancy/bsa271</guid>
+            <pubDate>Tue, 23 Mar 2021 11:08:07 GMT</pubDate>
+        </item>
+        <item>
+            <title>Business Intelligence Engineer, Digital Staffing Platform</title>
+            <link>https://dataart.team/vacancy/bsi050</link>
+            <description />
+            <guid>https://dataart.team/vacancy/bsi050</guid>
+            <pubDate>Mon, 22 Mar 2021 13:18:15 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle FullStack (React.js + .Net) Developer, Liquidity Solutions</title>
+            <link>https://dataart.team/vacancy/net532</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net532</guid>
+            <pubDate>Mon, 22 Mar 2021 12:42:04 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Flutter Developer</title>
+            <link>https://dataart.team/vacancy/flu014</link>
+            <description />
+            <guid>https://dataart.team/vacancy/flu014</guid>
+            <pubDate>Mon, 22 Mar 2021 12:30:21 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior DevOps Engineer</title>
+            <link>https://dataart.team/vacancy/cfm503</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm503</guid>
+            <pubDate>Fri, 19 Mar 2021 15:11:57 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle DevOps Engineer</title>
+            <link>https://dataart.team/vacancy/cfm596</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm596</guid>
+            <pubDate>Fri, 19 Mar 2021 13:43:04 GMT</pubDate>
+        </item>
+        <item>
+            <title>Security Analyst / Penetration Tester</title>
+            <link>https://dataart.team/vacancy/scn033</link>
+            <description />
+            <guid>https://dataart.team/vacancy/scn033</guid>
+            <pubDate>Fri, 19 Mar 2021 12:12:15 GMT</pubDate>
+        </item>
+        <item>
+            <title>Release Manager</title>
+            <link>https://dataart.team/vacancy/rm006</link>
+            <description />
+            <guid>https://dataart.team/vacancy/rm006</guid>
+            <pubDate>Fri, 19 Mar 2021 12:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title>Trainee/Junior DevOps</title>
+            <link>https://dataart.team/vacancy/net419</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net419</guid>
+            <pubDate>Fri, 19 Mar 2021 11:51:15 GMT</pubDate>
+        </item>
+        <item>
+            <title>DB Developer, Media Conglomerate</title>
+            <link>https://dataart.team/vacancy/mql131</link>
+            <description />
+            <guid>https://dataart.team/vacancy/mql131</guid>
+            <pubDate>Thu, 18 Mar 2021 17:02:59 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Front-End (Angular) Engineer, Medical Software</title>
+            <link>https://dataart.team/vacancy/jsc754</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc754</guid>
+            <pubDate>Thu, 18 Mar 2021 16:29:34 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior QA Engineer, Delivery System; Sign-on Bonus: $1000</title>
+            <link>https://dataart.team/vacancy/qas173</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qas173</guid>
+            <pubDate>Wed, 17 Mar 2021 13:16:51 GMT</pubDate>
+        </item>
+        <item>
+            <title>Business Intelligence and Data Modelling Specialist; Sign-on Bonus: $2000</title>
+            <link>https://dataart.team/vacancy/bsi040</link>
+            <description />
+            <guid>https://dataart.team/vacancy/bsi040</guid>
+            <pubDate>Wed, 17 Mar 2021 13:16:38 GMT</pubDate>
+        </item>
+        <item>
+            <title>Salesforce Architect; Sign on Bonus: $1500</title>
+            <link>https://dataart.team/vacancy/slf065</link>
+            <description />
+            <guid>https://dataart.team/vacancy/slf065</guid>
+            <pubDate>Wed, 17 Mar 2021 13:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title>	FullStack Developer (Node.js+ React), Online Genealogy Service</title>
+            <link>https://dataart.team/vacancy/jsc657</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc657</guid>
+            <pubDate>Tue, 16 Mar 2021 16:07:17 GMT</pubDate>
+        </item>
+        <item>
+            <title>Project Manager, Healthcare Practice</title>
+            <link>https://dataart.team/vacancy/pmr201</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pmr201</guid>
+            <pubDate>Tue, 16 Mar 2021 15:45:52 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Front-End Developer, Worldwide Product Services</title>
+            <link>https://dataart.team/vacancy/jsc713</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc713</guid>
+            <pubDate>Tue, 16 Mar 2021 10:58:55 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Golang Developer, Banking App</title>
+            <link>https://dataart.team/vacancy/go070</link>
+            <description />
+            <guid>https://dataart.team/vacancy/go070</guid>
+            <pubDate>Mon, 15 Mar 2021 09:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Python Developer</title>
+            <link>https://dataart.team/vacancy/pyt328</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt328</guid>
+            <pubDate>Mon, 15 Mar 2021 08:47:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior .NET Engineer, Payment Processing Solutions</title>
+            <link>https://dataart.team/vacancy/net520</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net520</guid>
+            <pubDate>Fri, 12 Mar 2021 11:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title>FullStack (Node.js + React.js) Engineer</title>
+            <link>https://dataart.team/vacancy/jsc500</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc500</guid>
+            <pubDate>Thu, 11 Mar 2021 16:13:05 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Java Engineer</title>
+            <link>https://dataart.team/vacancy/jav680</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav680</guid>
+            <pubDate>Thu, 11 Mar 2021 14:46:12 GMT</pubDate>
+        </item>
+        <item>
+            <title>Tech Writer</title>
+            <link>https://dataart.team/vacancy/thw018</link>
+            <description />
+            <guid>https://dataart.team/vacancy/thw018</guid>
+            <pubDate>Thu, 11 Mar 2021 13:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Lead DevOps Engineer with AWS Experience</title>
+            <link>https://dataart.team/vacancy/cfm583</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm583</guid>
+            <pubDate>Thu, 11 Mar 2021 11:46:58 GMT</pubDate>
+        </item>
+        <item>
+            <title>DevOps  with AWS Experience</title>
+            <link>https://dataart.team/vacancy/cfm588</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm588</guid>
+            <pubDate>Thu, 11 Mar 2021 11:46:45 GMT</pubDate>
+        </item>
+        <item>
+            <title>HR Specialist</title>
+            <link>https://dataart.team/vacancy/hrm076</link>
+            <description />
+            <guid>https://dataart.team/vacancy/hrm076</guid>
+            <pubDate>Thu, 11 Mar 2021 10:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Front-End (React.js) Engineer</title>
+            <link>https://dataart.team/vacancy/rjs030</link>
+            <description />
+            <guid>https://dataart.team/vacancy/rjs030</guid>
+            <pubDate>Wed, 10 Mar 2021 11:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title>ML Engineer, Social Networking Platform</title>
+            <link>https://dataart.team/vacancy/ml015</link>
+            <description />
+            <guid>https://dataart.team/vacancy/ml015</guid>
+            <pubDate>Tue, 09 Mar 2021 16:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior QA Engineer, Financial Services</title>
+            <link>https://dataart.team/vacancy/qas203</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qas203</guid>
+            <pubDate>Tue, 09 Mar 2021 15:29:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>Junior Big Data Software Engineer (Scala)</title>
+            <link>https://dataart.team/vacancy/hdp100</link>
+            <description />
+            <guid>https://dataart.team/vacancy/hdp100</guid>
+            <pubDate>Thu, 04 Mar 2021 15:11:54 GMT</pubDate>
+        </item>
+        <item>
+            <title>Junior Big Data Software Engineer (Python)</title>
+            <link>https://dataart.team/vacancy/hdp103</link>
+            <description />
+            <guid>https://dataart.team/vacancy/hdp103</guid>
+            <pubDate>Thu, 04 Mar 2021 15:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior WPF Developer, Asset Management Solutions</title>
+            <link>https://dataart.team/vacancy/net512</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net512</guid>
+            <pubDate>Wed, 03 Mar 2021 13:10:24 GMT</pubDate>
+        </item>
+        <item>
+            <title>Golang Developer</title>
+            <link>https://dataart.team/vacancy/go049</link>
+            <description />
+            <guid>https://dataart.team/vacancy/go049</guid>
+            <pubDate>Wed, 03 Mar 2021 11:12:34 GMT</pubDate>
+        </item>
+        <item>
+            <title>DevOps Engineer, Cloud Service Business Solutions</title>
+            <link>https://dataart.team/vacancy/cfm559</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm559</guid>
+            <pubDate>Tue, 02 Mar 2021 15:06:54 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Java Engineer</title>
+            <link>https://dataart.team/vacancy/jav652</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav652</guid>
+            <pubDate>Tue, 02 Mar 2021 09:32:58 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Java Engineer</title>
+            <link>https://dataart.team/vacancy/jav647</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav647</guid>
+            <pubDate>Tue, 02 Mar 2021 09:25:22 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Node.js Developer, Parcel Delivery App</title>
+            <link>https://dataart.team/vacancy/njs172</link>
+            <description />
+            <guid>https://dataart.team/vacancy/njs172</guid>
+            <pubDate>Mon, 01 Mar 2021 15:19:57 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Business Analyst, Asset Management Solutions</title>
+            <link>https://dataart.team/vacancy/bsa258</link>
+            <description />
+            <guid>https://dataart.team/vacancy/bsa258</guid>
+            <pubDate>Mon, 01 Mar 2021 13:41:49 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Java Engineer</title>
+            <link>https://dataart.team/vacancy/jav639</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav639</guid>
+            <pubDate>Fri, 26 Feb 2021 14:39:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Java Engineer</title>
+            <link>https://dataart.team/vacancy/jav642</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav642</guid>
+            <pubDate>Fri, 26 Feb 2021 14:37:30 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior JavaScript Engineer​ (Team Leader), Worldwide Product Services</title>
+            <link>https://dataart.team/vacancy/jsc409</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc409</guid>
+            <pubDate>Thu, 25 Feb 2021 14:57:50 GMT</pubDate>
+        </item>
+        <item>
+            <title>Python Team Lead, Energy Tech Solutions</title>
+            <link>https://dataart.team/vacancy/pyt278</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt278</guid>
+            <pubDate>Thu, 25 Feb 2021 09:25:15 GMT</pubDate>
+        </item>
+        <item>
+            <title>Intersystems Caché Developer</title>
+            <link>https://dataart.team/vacancy/etl050</link>
+            <description />
+            <guid>https://dataart.team/vacancy/etl050</guid>
+            <pubDate>Wed, 24 Feb 2021 10:47:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior iOS Developer</title>
+            <link>https://dataart.team/vacancy/ios105</link>
+            <description />
+            <guid>https://dataart.team/vacancy/ios105</guid>
+            <pubDate>Tue, 23 Feb 2021 14:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle iOS Developer</title>
+            <link>https://dataart.team/vacancy/ios103</link>
+            <description />
+            <guid>https://dataart.team/vacancy/ios103</guid>
+            <pubDate>Tue, 23 Feb 2021 14:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Discovery Phase Business Analyst</title>
+            <link>https://dataart.team/vacancy/bsa256</link>
+            <description />
+            <guid>https://dataart.team/vacancy/bsa256</guid>
+            <pubDate>Thu, 18 Feb 2021 16:27:50 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Data Engineer, Transport Booking System</title>
+            <link>https://dataart.team/vacancy/de065</link>
+            <description />
+            <guid>https://dataart.team/vacancy/de065</guid>
+            <pubDate>Wed, 17 Feb 2021 10:22:35 GMT</pubDate>
+        </item>
+        <item>
+            <title>Data Platform Engineer with PostgreSQL Skills, Online Retailer</title>
+            <link>https://dataart.team/vacancy/de060</link>
+            <description />
+            <guid>https://dataart.team/vacancy/de060</guid>
+            <pubDate>Wed, 17 Feb 2021 10:09:17 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Business Analyst</title>
+            <link>https://dataart.team/vacancy/bsa252</link>
+            <description />
+            <guid>https://dataart.team/vacancy/bsa252</guid>
+            <pubDate>Wed, 17 Feb 2021 08:46:20 GMT</pubDate>
+        </item>
+        <item>
+            <title>Fullstack (React.js+Node.js) Developer, Educational Chatbot</title>
+            <link>https://dataart.team/vacancy/jsc622</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc622</guid>
+            <pubDate>Mon, 15 Feb 2021 16:22:10 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior .NET Engineer</title>
+            <link>https://dataart.team/vacancy/net485</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net485</guid>
+            <pubDate>Mon, 15 Feb 2021 10:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior .NET Engineer</title>
+            <link>https://dataart.team/vacancy/net475</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net475</guid>
+            <pubDate>Fri, 12 Feb 2021 12:07:41 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Business Analyst</title>
+            <link>https://dataart.team/vacancy/bsa245</link>
+            <description />
+            <guid>https://dataart.team/vacancy/bsa245</guid>
+            <pubDate>Thu, 11 Feb 2021 11:12:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior .NET Engineer, Communication App</title>
+            <link>https://dataart.team/vacancy/net470</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net470</guid>
+            <pubDate>Wed, 10 Feb 2021 12:19:08 GMT</pubDate>
+        </item>
+        <item>
+            <title>Cloud Platform Engineer, Online Retailer</title>
+            <link>https://dataart.team/vacancy/cfm402</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm402</guid>
+            <pubDate>Wed, 10 Feb 2021 11:06:34 GMT</pubDate>
+        </item>
+        <item>
+            <title>Python Developer, Media Conglomerate</title>
+            <link>https://dataart.team/vacancy/jav543</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav543</guid>
+            <pubDate>Tue, 09 Feb 2021 11:33:07 GMT</pubDate>
+        </item>
+        <item>
+            <title>FullStack (React.js + Node.js) Developer, Social Networking Platform</title>
+            <link>https://dataart.team/vacancy/jsc649</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc649</guid>
+            <pubDate>Fri, 05 Feb 2021 16:51:25 GMT</pubDate>
+        </item>
+        <item>
+            <title>.NET Engineer, Booking Platform</title>
+            <link>https://dataart.team/vacancy/net456</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net456</guid>
+            <pubDate>Thu, 04 Feb 2021 10:24:28 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle JavaScript Developer</title>
+            <link>https://dataart.team/vacancy/jsc623</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc623</guid>
+            <pubDate>Fri, 29 Jan 2021 12:32:41 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior DevOps Engineer, Transport Booking System</title>
+            <link>https://dataart.team/vacancy/cfm507</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm507</guid>
+            <pubDate>Tue, 26 Jan 2021 12:59:04 GMT</pubDate>
+        </item>
+        <item>
+            <title>React Native Developer</title>
+            <link>https://dataart.team/vacancy/jsc603</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc603</guid>
+            <pubDate>Fri, 22 Jan 2021 12:36:20 GMT</pubDate>
+        </item>
+        <item>
+            <title>	Database Administrator, E-Commerce</title>
+            <link>https://dataart.team/vacancy/mql135</link>
+            <description />
+            <guid>https://dataart.team/vacancy/mql135</guid>
+            <pubDate>Wed, 20 Jan 2021 09:31:41 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Ruby Developer</title>
+            <link>https://dataart.team/vacancy/rub155</link>
+            <description />
+            <guid>https://dataart.team/vacancy/rub155</guid>
+            <pubDate>Fri, 15 Jan 2021 14:49:56 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Software Engineer (Java/.NET/JS/Python/QA)</title>
+            <link>https://dataart.team/vacancy/otr034</link>
+            <description />
+            <guid>https://dataart.team/vacancy/otr034</guid>
+            <pubDate>Fri, 15 Jan 2021 12:46:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Big Data Engineer,  Financial Software Solutions</title>
+            <link>https://dataart.team/vacancy/hdp088</link>
+            <description />
+            <guid>https://dataart.team/vacancy/hdp088</guid>
+            <pubDate>Thu, 31 Dec 2020 13:47:22 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle QA Engineer, Financial Systems</title>
+            <link>https://dataart.team/vacancy/qas165</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qas165</guid>
+            <pubDate>Wed, 30 Dec 2020 13:48:12 GMT</pubDate>
+        </item>
+        <item>
+            <title>Golang Developer</title>
+            <link>https://dataart.team/vacancy/go055</link>
+            <description />
+            <guid>https://dataart.team/vacancy/go055</guid>
+            <pubDate>Mon, 28 Dec 2020 15:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title>Project Manager, Finance Practice</title>
+            <link>https://dataart.team/vacancy/pmr079</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pmr079</guid>
+            <pubDate>Wed, 23 Dec 2020 07:21:14 GMT</pubDate>
+        </item>
+        <item>
+            <title>Front-End (Angular) Developer, Fintech Solutions</title>
+            <link>https://dataart.team/vacancy/jsc534</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc534</guid>
+            <pubDate>Tue, 22 Dec 2020 14:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Data Analytics Senior Engineer, Investment Management Solutions</title>
+            <link>https://dataart.team/vacancy/dan048</link>
+            <description />
+            <guid>https://dataart.team/vacancy/dan048</guid>
+            <pubDate>Fri, 11 Dec 2020 17:34:27 GMT</pubDate>
+        </item>
+        <item>
+            <title>DevOps with AWS Knowledge</title>
+            <link>https://dataart.team/vacancy/cfm458</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm458</guid>
+            <pubDate>Tue, 08 Dec 2020 14:39:23 GMT</pubDate>
+        </item>
+        <item>
+            <title>Junior  UI/UX Designer, Media &amp; Entertainment Practice</title>
+            <link>https://dataart.team/vacancy/dsg085</link>
+            <description />
+            <guid>https://dataart.team/vacancy/dsg085</guid>
+            <pubDate>Tue, 08 Dec 2020 11:21:52 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle QA Automation Engineer</title>
+            <link>https://dataart.team/vacancy/qaa372</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa372</guid>
+            <pubDate>Fri, 04 Dec 2020 12:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title>JavaScript Trainee</title>
+            <link>https://dataart.team/vacancy/jsc266</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc266</guid>
+            <pubDate>Thu, 03 Dec 2020 09:37:55 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle .NET Engineer</title>
+            <link>https://dataart.team/vacancy/net218</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net218</guid>
+            <pubDate>Wed, 02 Dec 2020 09:10:32 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Front-End (Angular) Engineer</title>
+            <link>https://dataart.team/vacancy/jsc157</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc157</guid>
+            <pubDate>Fri, 13 Nov 2020 10:56:16 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Front-End (Angular) Engineer</title>
+            <link>https://dataart.team/vacancy/jsc156</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc156</guid>
+            <pubDate>Fri, 13 Nov 2020 10:53:50 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Front-End (React.js) Engineer</title>
+            <link>https://dataart.team/vacancy/jsc252</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc252</guid>
+            <pubDate>Fri, 13 Nov 2020 10:47:37 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Front-End (React.js) Engineer</title>
+            <link>https://dataart.team/vacancy/jsc160</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc160</guid>
+            <pubDate>Fri, 13 Nov 2020 10:42:30 GMT</pubDate>
+        </item>
+        <item>
+            <title>Webmaster with Front-end Experience, Worldwide Product Services</title>
+            <link>https://dataart.team/vacancy/wbm023</link>
+            <description />
+            <guid>https://dataart.team/vacancy/wbm023</guid>
+            <pubDate>Tue, 10 Nov 2020 11:01:56 GMT</pubDate>
+        </item>
+        <item>
+            <title> Senior Fullstack (Node.js+ React.js) Developer, Multinational Financial Services </title>
+            <link>https://dataart.team/vacancy/njs055</link>
+            <description />
+            <guid>https://dataart.team/vacancy/njs055</guid>
+            <pubDate>Fri, 30 Oct 2020 09:56:30 GMT</pubDate>
+        </item>
+        <item>
+            <title>Tech Lead with Python Experience, Financial Software Solutions</title>
+            <link>https://dataart.team/vacancy/pyt245</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt245</guid>
+            <pubDate>Thu, 29 Oct 2020 08:48:38 GMT</pubDate>
+        </item>
+        <item>
+            <title>.NET Engineer, Financial Systems</title>
+            <link>https://dataart.team/vacancy/net390</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net390</guid>
+            <pubDate>Wed, 28 Oct 2020 10:10:17 GMT</pubDate>
+        </item>
+        <item>
+            <title>JavaScript (React) Engineer,  Investment App</title>
+            <link>https://dataart.team/vacancy/jsc466</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jsc466</guid>
+            <pubDate>Fri, 23 Oct 2020 15:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title>Junior DevOps Engineer</title>
+            <link>https://dataart.team/vacancy/cfm175</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm175</guid>
+            <pubDate>Fri, 23 Oct 2020 12:37:21 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Salesforce Developer</title>
+            <link>https://dataart.team/vacancy/slf064</link>
+            <description />
+            <guid>https://dataart.team/vacancy/slf064</guid>
+            <pubDate>Thu, 22 Oct 2020 15:07:23 GMT</pubDate>
+        </item>
+        <item>
+            <title>Markit EDM Specialist, Multinational Financial Services</title>
+            <link>https://dataart.team/vacancy/dan026</link>
+            <description />
+            <guid>https://dataart.team/vacancy/dan026</guid>
+            <pubDate>Fri, 16 Oct 2020 17:24:03 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Python Developer </title>
+            <link>https://dataart.team/vacancy/pyt149</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt149</guid>
+            <pubDate>Fri, 16 Oct 2020 10:22:58 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle QA Automation Engineer</title>
+            <link>https://dataart.team/vacancy/qaa159</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa159</guid>
+            <pubDate>Fri, 16 Oct 2020 10:17:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Project Manager, Digital Transformation Practice</title>
+            <link>https://dataart.team/vacancy/pmr143</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pmr143</guid>
+            <pubDate>Wed, 07 Oct 2020 13:06:37 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Python Developer, Financial Software Solutions</title>
+            <link>https://dataart.team/vacancy/pyt249</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt249</guid>
+            <pubDate>Mon, 28 Sep 2020 08:48:45 GMT</pubDate>
+        </item>
+        <item>
+            <title>QA Automation Trainee</title>
+            <link>https://dataart.team/vacancy/qaa210</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa210</guid>
+            <pubDate>Tue, 22 Sep 2020 16:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title>QA Trainee</title>
+            <link>https://dataart.team/vacancy/qas054</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qas054</guid>
+            <pubDate>Tue, 22 Sep 2020 15:57:07 GMT</pubDate>
+        </item>
+        <item>
+            <title>.NET Trainee</title>
+            <link>https://dataart.team/vacancy/net184</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net184</guid>
+            <pubDate>Tue, 22 Sep 2020 15:56:15 GMT</pubDate>
+        </item>
+        <item>
+            <title>QA Automation Trainee</title>
+            <link>https://dataart.team/vacancy/qaa086</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qaa086</guid>
+            <pubDate>Tue, 22 Sep 2020 10:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Java Engineer</title>
+            <link>https://dataart.team/vacancy/jav182</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav182</guid>
+            <pubDate>Fri, 18 Sep 2020 09:20:17 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior QA Engineer</title>
+            <link>https://dataart.team/vacancy/qas035</link>
+            <description />
+            <guid>https://dataart.team/vacancy/qas035</guid>
+            <pubDate>Fri, 18 Sep 2020 08:47:57 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Java Engineer</title>
+            <link>https://dataart.team/vacancy/jav068</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav068</guid>
+            <pubDate>Thu, 17 Sep 2020 13:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title>FullStack (Python+JavaScript) Developer, Financial Software Solutions</title>
+            <link>https://dataart.team/vacancy/pyt252</link>
+            <description />
+            <guid>https://dataart.team/vacancy/pyt252</guid>
+            <pubDate>Mon, 14 Sep 2020 13:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Business Analyst</title>
+            <link>https://dataart.team/vacancy/bsa160</link>
+            <description />
+            <guid>https://dataart.team/vacancy/bsa160</guid>
+            <pubDate>Fri, 11 Sep 2020 13:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Business Analyst </title>
+            <link>https://dataart.team/vacancy/bsa093</link>
+            <description />
+            <guid>https://dataart.team/vacancy/bsa093</guid>
+            <pubDate>Fri, 11 Sep 2020 13:52:10 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior iOS Developer</title>
+            <link>https://dataart.team/vacancy/ios069</link>
+            <description />
+            <guid>https://dataart.team/vacancy/ios069</guid>
+            <pubDate>Mon, 07 Sep 2020 11:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title>Java Architect</title>
+            <link>https://dataart.team/vacancy/jav505</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav505</guid>
+            <pubDate>Mon, 31 Aug 2020 12:07:37 GMT</pubDate>
+        </item>
+        <item>
+            <title>.NET Architect</title>
+            <link>https://dataart.team/vacancy/net350</link>
+            <description />
+            <guid>https://dataart.team/vacancy/net350</guid>
+            <pubDate>Mon, 31 Aug 2020 11:59:22 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior Node.js Developer</title>
+            <link>https://dataart.team/vacancy/njs035</link>
+            <description />
+            <guid>https://dataart.team/vacancy/njs035</guid>
+            <pubDate>Fri, 21 Aug 2020 09:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title>Middle Node.js Developer</title>
+            <link>https://dataart.team/vacancy/njs036</link>
+            <description />
+            <guid>https://dataart.team/vacancy/njs036</guid>
+            <pubDate>Fri, 21 Aug 2020 09:22:33 GMT</pubDate>
+        </item>
+        <item>
+            <title>Java Trainee</title>
+            <link>https://dataart.team/vacancy/jav263</link>
+            <description />
+            <guid>https://dataart.team/vacancy/jav263</guid>
+            <pubDate>Thu, 20 Aug 2020 11:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title>DevOps (GCP) Engineer</title>
+            <link>https://dataart.team/vacancy/cfm212</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm212</guid>
+            <pubDate>Mon, 10 Aug 2020 14:53:54 GMT</pubDate>
+        </item>
+        <item>
+            <title>DevOps (Azure) Engineer</title>
+            <link>https://dataart.team/vacancy/cfm216</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm216</guid>
+            <pubDate>Mon, 10 Aug 2020 14:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title>DevOps Engineer with AWS Experience, Internal Project</title>
+            <link>https://dataart.team/vacancy/cfm215</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm215</guid>
+            <pubDate>Mon, 10 Aug 2020 14:53:22 GMT</pubDate>
+        </item>
+        <item>
+            <title>Senior DevOps (Azure) Engineer, IoT platform</title>
+            <link>https://dataart.team/vacancy/cfm335</link>
+            <description />
+            <guid>https://dataart.team/vacancy/cfm335</guid>
+            <pubDate>Fri, 07 Aug 2020 12:04:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
