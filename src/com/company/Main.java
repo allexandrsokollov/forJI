@@ -10,6 +10,6 @@ public class Main {
                 "jdbc:mysql://localhost:3306/dt",
                 "user", "1234");
 
-        db.createTable("test2");
+        db.dropTable("test");
     }
 }

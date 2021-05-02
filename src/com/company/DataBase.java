@@ -57,4 +57,43 @@ public class DataBase {
             }
         }
     }
+
+    public void dropTable(String name) {
+        String sql = "Drop TABLE IF EXISTS " + name;
+        Connection connection = null;
+        Statement stmt = null;
+
+
+        try {
+            Class.forName(JDBC_DRIVER);
+            connection = DriverManager.getConnection(DB_URL, user, pass);
+            stmt = connection.createStatement();
+
+            stmt.executeUpdate(sql);
+
+
+            stmt.close();
+            connection.close();
+        } catch (ClassNotFoundException | SQLException e) {
+            e.printStackTrace();
+        } finally {
+            if(stmt != null) {
+
+                try {
+                    stmt.close();
+                } catch (SQLException throwables) {
+                    throwables.printStackTrace();
+                }
+            }
+
+            if(connection != null) {
+
+                try {
+                    connection.close();
+                } catch (SQLException throwables) {
+                    throwables.printStackTrace();
+                }
+            }
+        }
+    }
 }
