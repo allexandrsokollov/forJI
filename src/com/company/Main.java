@@ -6,14 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        DataBase db = new DataBase("com.mysql.cj.jdbc.Driver",
-                "jdbc:mysql://localhost:3306/dt",
-                "user", "1234");
-
-        db.dropTable("test");
-
-        db.createTable("test");
-
-        db.addElem("test", "3wref", "1werwe", "20weterw212220");
+        WebParser webParser = new WebParser("https://dataart.team/Umbraco/Api/RssFeed/GenerateRssFeed?section=vacancy");
+        webParser.getListOfOffers();
     }
 }

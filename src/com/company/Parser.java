@@ -15,11 +15,11 @@ public class Parser {
 
     private final String path;
 
+
     public Parser(String path) {
         this.path = path; //it is path to your XML file
-
-
     }
+
 
     public ArrayList<Offer> getListOfOffers() {
         //return Array List Of offers from XML file
