@@ -53,9 +53,11 @@ public class Parser {
                            nextEvent = reader.nextEvent();
                            nextEventData = nextEvent.asCharacters().getData();
                            if(nextEventData == "Vacancies rss") {
-                               continue;
+                               break;
                            }
-                           title = nextEventData;
+                           else {
+                               title = nextEventData;
+                           }
                            break;
                        case "guid":
                            nextEvent = reader.nextEvent();
@@ -67,9 +69,14 @@ public class Parser {
                            nextEventData = nextEvent.asCharacters().getData();
                            puBDate = nextEventData;
                            break;
-                   }
 
-                   list.add(new Offer(title, ref, puBDate));
+                   }
+                    if(ref != null && title != null && puBDate != null) {
+                        list.add(new Offer(ref, title, puBDate));
+                        ref = null;
+                        title = null;
+                        puBDate = null;
+                    }
                }
            }
 
@@ -87,7 +94,6 @@ public class Parser {
        }
 
         return list;
-
 
     }
 }
