@@ -19,7 +19,7 @@ public class Offer {
         return "Offer{" +
                 "ref='" + ref + '\'' +
                 ", title='" + title + '\'' +
-                ", paBDate='" + pubDate + '\'' +
+                ", puBDate='" + pubDate + '\'' +
                 '}';
     }
 }
