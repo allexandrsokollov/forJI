@@ -1,8 +1,7 @@
 package com.company;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.awt.desktop.OpenFilesEvent;
+import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -16,12 +15,13 @@ public class WebParser {
         this.ref = ref;
     }
 
-    public void getListOfOffers() {
+    public ArrayList<Offer> getListOfOffers() {
 
         HttpURLConnection conn;
         BufferedReader reader;
+        BufferedWriter writer = null;
         String line;
-        String data = "";
+        StringBuilder data = new StringBuilder();
         int connectionStatus;
         final int LAST_SUCCESS_CODE = 299;
 
@@ -36,25 +36,25 @@ public class WebParser {
 
             connectionStatus = conn.getResponseCode();
 
-            if (connectionStatus > LAST_SUCCESS_CODE) {
-                reader = new BufferedReader(new InputStreamReader(conn.getErrorStream()));
-                while ((line = reader.readLine()) != null) {
-                    data += line;
-                    data += "\n";
-                }
+                if (connectionStatus > LAST_SUCCESS_CODE) {
+                    reader = new BufferedReader(new InputStreamReader(conn.getErrorStream()));
+                    while ((line = reader.readLine()) != null) {
+                        data.append(line);
+                        data.append("\n");
+                    }
 
 
-                reader.close();
-            } else {
+                    reader.close();
+                } else {
 
-                reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
-                while ((line = reader.readLine()) != null) {
-                    data += line;
-                    data += "\n";
-                }
+                    reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+                    while ((line = reader.readLine()) != null) {
+                        data.append(line);
+                        data.append("\n");
+                    }
 
 
-                reader.close();
+                     reader.close();
             }
 
             System.out.println(data);
@@ -66,6 +66,35 @@ public class WebParser {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+        try {
+
+            writer = new BufferedWriter(new FileWriter("temp.xml"));
+            writer.write(data.toString());
+
+        }
+        catch (IOException e) {
+            e.printStackTrace();
+        }
+        finally {
+            if(writer != null) {
+
+                try {
+                    writer.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+
+        ArrayList<Offer> list;
+        Parser parser = new Parser("temp.xml");
+        list = parser.getListOfOffers();
+
+        File f = new File("temp.xml");
+        f.delete();
+
+        return list;
 
     }
 }
