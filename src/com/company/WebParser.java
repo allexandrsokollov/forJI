@@ -7,18 +7,18 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
 
-public class WebParser {
+public class WebParser extends Parser{
 
-    private final String ref;
+    public WebParser(String path) {
 
-    public WebParser(String ref) {
-        this.ref = ref;
+        super(path);
     }
 
     public ArrayList<Offer> getListOfOffers() {
 
         HttpURLConnection conn;
         BufferedReader reader;
+        final int TIMEOUT_LENGTH = 5000;
         BufferedWriter writer = null;
         String line;
         StringBuilder data = new StringBuilder();
@@ -26,13 +26,13 @@ public class WebParser {
         final int LAST_SUCCESS_CODE = 299;
 
         try {
-            URL url = new URL(ref);
+            URL url = new URL(path);
             conn = (HttpURLConnection) url.openConnection();
 
 
             conn.setRequestMethod("GET");
-            conn.setConnectTimeout(5000);
-            conn.setReadTimeout(5000);
+            conn.setConnectTimeout(TIMEOUT_LENGTH);
+            conn.setReadTimeout(TIMEOUT_LENGTH);
 
             connectionStatus = conn.getResponseCode();
 

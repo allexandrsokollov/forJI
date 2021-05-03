@@ -8,10 +8,10 @@ import java.util.ArrayList;
 
 public class DataBase {
 
-    String JDBC_DRIVER;
-    String DB_URL;
-    String user;
-    String pass;
+    private final String JDBC_DRIVER;
+    private final String DB_URL;
+    private final String user;
+    private final String pass;
 
     public DataBase(String JDBC_DRIVER, String DB_URL, String user, String pass) {
         this.JDBC_DRIVER = JDBC_DRIVER;
@@ -145,5 +145,9 @@ public class DataBase {
         for(int i = 0; i < list.size(); i++) {
             addElem(nameOfTable, list.get(i).getRef(), list.get(i).getTitle(), list.get(i).getPubDate());
         }
+    }
+
+    public void getListOfOffers () {
+
     }
 }

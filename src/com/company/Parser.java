@@ -11,9 +11,9 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
-public class Parser {
+ class Parser {
 
-    private final String path;
+    final String path;
 
 
     public Parser(String path) {
@@ -21,7 +21,7 @@ public class Parser {
     }
 
 
-    public ArrayList<Offer> getListOfOffers() {
+        ArrayList<Offer> getListOfOffers() {
         //return Array List Of offers from XML file
 
         /*
