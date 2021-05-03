@@ -4,6 +4,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.sql.*;
+import java.util.ArrayList;
 
 public class DataBase {
 
@@ -97,9 +98,9 @@ public class DataBase {
         }
     }
 
-    public void addElem(String nameOfTable, String ids, String titles, String dates) {
+    public void addElem(String nameOfTable, String id, String title, String date) {
 
-        String sql = "INSERT INTO test (id, title, date) VALUES ('" + ids + "' ,'" + titles + "' ,'" + dates + "')";
+        String sql = "INSERT INTO " + nameOfTable + " (id, title, date) VALUES ('" + id + "' ,'" + title + "' ,'" + date + "')";
         Connection connection = null;
         Statement stmt = null;
 
@@ -137,5 +138,12 @@ public class DataBase {
         }
 
 
+    }
+
+    public void listOfOffersToDB(ArrayList<Offer> list, String nameOfTable) {
+
+        for(int i = 0; i < list.size(); i++) {
+            addElem(nameOfTable, list.get(i).getRef(), list.get(i).getTitle(), list.get(i).getPubDate());
+        }
     }
 }

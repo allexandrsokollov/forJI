@@ -13,6 +13,17 @@ public class Offer {
         this.pubDate = paBDate;
     }
 
+    public String getRef() {
+        return ref;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getPubDate() {
+        return pubDate;
+    }
 
     @Override
     public String toString() {
