@@ -191,4 +191,49 @@ public class DataBase {
         return list;
 
     }
+
+    public ArrayList<Offer> searchInOffersList(String request, String tableName) {
+        String sql = "SELECT * FROM " + tableName + " WHERE TITLE LIKE '%" + request.toLowerCase() + "%'";
+        Connection conn = null;
+        Statement stmt = null;
+        ArrayList<Offer> list = new ArrayList<>(100);
+        String id;
+        String title;
+        String pubDate;
+
+        try {
+            conn = DriverManager.getConnection(DB_URL, user, pass);
+            stmt = conn.createStatement();
+            ResultSet resultSet = stmt.executeQuery(sql);
+
+            while (resultSet.next()) {
+
+                id = resultSet.getString(1);
+                title = resultSet.getString(2);
+                pubDate = resultSet.getString(3);
+                list.add(new Offer(id, title, pubDate));
+
+                id = null;
+                title = null;
+                pubDate = null;
+            }
+
+            conn.close();
+        } catch (SQLException throwables) {
+            throwables.printStackTrace();
+        }
+        finally {
+            try {
+                if(conn != null) {
+                    conn.close();
+                }
+            } catch (SQLException throwables) {
+                throwables.printStackTrace();
+            }
+        }
+
+        return list;
+    }
+
+
 }

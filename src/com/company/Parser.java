@@ -21,7 +21,7 @@ import java.util.ArrayList;
     }
 
 
-        ArrayList<Offer> getListOfOffers() {
+    ArrayList<Offer> getListOfOffers() {
         //return Array List Of offers from XML file
 
         /*

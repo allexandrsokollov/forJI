@@ -11,7 +11,7 @@ public class Main {
                 "user", "1234");
 
         WebParser webParser = new WebParser("https://dataart.team/Umbraco/Api/RssFeed/GenerateRssFeed?section=vacancy");
-        ArrayList<Offer> list = dataBase.getListOfOffers("test");
+        ArrayList<Offer> list = dataBase.searchInOffersList("Java", "test");
 
         for(int i = 0; i < list.size(); i++) {
             System.out.println(list.get(i));

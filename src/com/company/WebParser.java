@@ -6,6 +6,7 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Locale;
 
 public class WebParser extends Parser{
 
@@ -70,7 +71,8 @@ public class WebParser extends Parser{
         try {
 
             writer = new BufferedWriter(new FileWriter("temp.xml"));
-            writer.write(data.toString());
+            String temp = data.toString();
+            writer.write(temp.toLowerCase());
 
         }
         catch (IOException e) {
@@ -93,6 +95,7 @@ public class WebParser extends Parser{
 
         File f = new File("temp.xml");
         f.delete();
+
 
         return list;
 
